@@ -32,4 +32,6 @@
 
 - [JSON APIs Specification](https://jsonapi.org/)
 - [Public APIs](https://github.com/public-apis/public-apis)
+- [RapidAPI](https://rapidapi.com/hub)
+- [REST Countries](https://restcountries.com/)
 
