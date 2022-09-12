@@ -8,6 +8,7 @@
 
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [Boolean Logic in JavaScript](https://ntgard.medium.com/https-medium-com-ntgard-boolean-logic-in-javascript-part-1-3371af974f19)
 
 ## Web Design
 
