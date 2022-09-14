@@ -38,4 +38,5 @@
 
 ## Misc
 
+- [VSCode Keyboard Reference Sheet](./resources/VSCodeCheatsheet.md)
 - [Profile Pic Maker](https://pfpmaker.com/)
