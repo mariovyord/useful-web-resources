@@ -3,6 +3,7 @@
 ## Computer Science
 
  - [Open Source Society University](https://github.com/ossu/computer-science)
+ - [CS50 - Harvard](https://www.youtube.com/c/cs50)
 
 ## Front-End
 
