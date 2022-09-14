@@ -36,3 +36,6 @@
 - [RapidAPI](https://rapidapi.com/hub)
 - [REST Countries](https://restcountries.com/)
 
+## Misc
+
+- [Profile Pic Maker](https://pfpmaker.com/)
