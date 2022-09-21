@@ -17,15 +17,15 @@
  - [iconmonstr](https://iconmonstr.com/)
  - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
 
-## Performance Testing
+## Performance
 
- - [PageSpeed Insights](https://pagespeed.web.dev/)
+- [Web Dev](https://web.dev/)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
+- [Global Stats](https://gs.statcounter.com/)
  
 ## Redux
 
-### RTK Query
-
- - [RTK Query Best Practices](https://medium.com/nmc-techblog/rtk-query-best-practices-e0296d1679e6)
+- [RTK Query Best Practices](https://medium.com/nmc-techblog/rtk-query-best-practices-e0296d1679e6)
  
 ## Database
 
