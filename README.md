@@ -40,5 +40,6 @@
 
 ## Misc
 
+- [Pro Git Book](https://git-scm.com/book/en/v2)
 - [VSCode Keyboard Reference Sheet](./markdowns/VSCodeCheatsheet.md)
 - [Profile Pic Maker](https://pfpmaker.com/)
