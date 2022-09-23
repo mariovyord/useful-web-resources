@@ -23,6 +23,7 @@
 - [Web Dev](https://web.dev/)
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 - [Global Stats](https://gs.statcounter.com/)
+- [Can I use...](https://caniuse.com/)
  
 ## Redux
 
