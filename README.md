@@ -15,6 +15,7 @@
 
  - [Web Design Museum](https://www.webdesignmuseum.org/)
  - [Fontsource](https://fontsource.org/)
+ - [Favicon Generator](https://favicon.io/)
  - [iconmonstr](https://iconmonstr.com/)
  - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
 
