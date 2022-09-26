@@ -5,6 +5,11 @@
  - [Open Source Society University](https://github.com/ossu/computer-science)
  - [CS50 - Harvard](https://www.youtube.com/c/cs50)
  - [Microsoft - Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+ 
+## Coding Games and Challenges
+
+ - [Flexbox Froggy](https://flexboxfroggy.com/)
+ - [Coding Fantasy](https://codingfantasy.com/)
 
 ## Front-End
 
