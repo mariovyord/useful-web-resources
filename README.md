@@ -49,6 +49,7 @@
 
 ## Misc
 
+- [Convert JSON to Types](https://quicktype.io/)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [VSCode Keyboard Reference Sheet](./markdowns/VSCodeCheatsheet.md)
