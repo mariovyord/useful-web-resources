@@ -24,6 +24,7 @@
  - [Favicon Generator](https://favicon.io/)
  - [iconmonstr](https://iconmonstr.com/)
  - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
+  - [Custom Shape Dividers](https://www.shapedivider.app/)
 
 ## Performance
 
