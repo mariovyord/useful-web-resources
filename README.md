@@ -14,6 +14,7 @@
 ## Front-End
 
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [Backend for Frontend Pattern](https://medium.com/mobilepeople/backend-for-frontend-pattern-why-you-need-to-know-it-46f94ce420b0)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [Boolean Logic in JavaScript](https://ntgard.medium.com/https-medium-com-ntgard-boolean-logic-in-javascript-part-1-3371af974f19)
 
