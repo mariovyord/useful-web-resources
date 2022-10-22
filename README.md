@@ -62,3 +62,4 @@
 - [Markdown Guide](https://www.markdownguide.org/)
 - [VSCode Keyboard Reference Sheet](./markdowns/VSCodeCheatsheet.md)
 - [Profile Pic Maker](https://pfpmaker.com/)
+- [Comments Widget - utterances](https://utteranc.es/)
