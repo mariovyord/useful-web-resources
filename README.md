@@ -40,6 +40,10 @@
 - [Global Stats](https://gs.statcounter.com/)
 - [Can I use...](https://caniuse.com/)
  
+## Angular
+
+- [Routing to Angular Material Dialogs](https://medium.com/ngconf/routing-to-angular-material-dialogs-c3fb7231c177)
+ 
 ## Redux
 
 - [RTK Query Best Practices](https://medium.com/nmc-techblog/rtk-query-best-practices-e0296d1679e6)
