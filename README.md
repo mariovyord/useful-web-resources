@@ -49,6 +49,10 @@
 
 - [RTK Query Best Practices](https://medium.com/nmc-techblog/rtk-query-best-practices-e0296d1679e6)
 - [Next.js Redux Wrapper](https://github.com/kirill-konshin/next-redux-wrapper)
+
+## Backend Platforms
+
+- [PocketBase](https://pocketbase.io/)
  
 ## Database
 
