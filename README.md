@@ -44,6 +44,7 @@
 
 - [Routing to Angular Material Dialogs](https://medium.com/ngconf/routing-to-angular-material-dialogs-c3fb7231c177)
 - [How To Get Route Path Parameters In Non-Routed Angular Components](https://tomastrajan.medium.com/how-to-get-route-path-parameters-in-non-routed-angular-components-32fc90d9cb52)
+- [Setting up and creating a chat app with Angular, Socket.IO 3.0, and Express](https://medium.com/@deguzmanbrianfrancis/setting-up-and-creating-a-chat-app-with-angular-socket-io-3-0-and-express-70c69b8031f6)
  
 ## Redux
 
