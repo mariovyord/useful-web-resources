@@ -5,6 +5,7 @@
  - [Open Source Society University](https://github.com/ossu/computer-science)
  - [CS50 - Harvard](https://www.youtube.com/c/cs50)
  - [Microsoft - Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+ - [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
  
 ## Coding Games and Challenges
 
