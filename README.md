@@ -1,5 +1,13 @@
 # Useful Web Resources
 
+## Featured
+
+The ones I use all the time.
+
+- [Can I use...](https://caniuse.com/)
+- [Developer Roadmaps](https://roadmap.sh/)
+- [Refactoring Guru - Design Patterns](https://refactoring.guru/)
+
 ## Computer Science
 
  - [Open Source Society University](https://github.com/ossu/computer-science)
@@ -68,7 +76,7 @@
  
 ## Database
 
-- [ NoSQL Data Modeling Techniques	](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
+- [NoSQL Data Modeling Techniques	](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
 - [Mock Database Data](https://www.mockaroo.com/)
 
 ## API
@@ -86,3 +94,4 @@
 - [VSCode Keyboard Reference Sheet](./markdowns/VSCodeCheatsheet.md)
 - [Profile Pic Maker](https://pfpmaker.com/)
 - [Comments Widget - utterances](https://utteranc.es/)
+- [Developer Roadmaps]([https://utteranc.es/](https://roadmap.sh/)https://roadmap.sh/)
