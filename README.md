@@ -95,4 +95,4 @@ The ones I use all the time.
 - [VSCode Keyboard Reference Sheet](./markdowns/VSCodeCheatsheet.md)
 - [Profile Pic Maker](https://pfpmaker.com/)
 - [Comments Widget - utterances](https://utteranc.es/)
-- [Developer Roadmaps]([https://utteranc.es/](https://roadmap.sh/)https://roadmap.sh/)
+- [Developer Roadmaps](https://roadmap.sh/)
