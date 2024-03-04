@@ -72,6 +72,7 @@ The ones I use all the time.
 
 ## Backend & Host 
 
+- [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 - [Fly.io](https://fly.io/)
 - [PocketBase](https://pocketbase.io/)
  
