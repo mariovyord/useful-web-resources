@@ -31,7 +31,7 @@ The ones I use all the time.
 ## Back-End
 
 - [Tao of Node](https://alexkondov.com/tao-of-node/)
-
+- [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 
 ## Web Design
 
@@ -70,9 +70,8 @@ The ones I use all the time.
 
 - [RxJS Marbles](https://rxmarbles.com/)
 
-## Backend & Host 
+## BAAS
 
-- [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 - [Fly.io](https://fly.io/)
 - [PocketBase](https://pocketbase.io/)
  
@@ -91,6 +90,7 @@ The ones I use all the time.
 ## Misc
 
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/)
+- [Conventional Commits](https://www.conventionalcommits.org)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [VSCode Keyboard Reference Sheet](./markdowns/VSCodeCheatsheet.md)
