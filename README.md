@@ -7,6 +7,7 @@ The ones I use all the time.
 - [Can I use...](https://caniuse.com/)
 - [Developer Roadmaps](https://roadmap.sh/)
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/)
+- [Atlassian Software Development Wiki](https://www.atlassian.com/software-development)
 
 ## Computer Science
 
@@ -97,3 +98,4 @@ The ones I use all the time.
 - [Profile Pic Maker](https://pfpmaker.com/)
 - [Comments Widget - utterances](https://utteranc.es/)
 - [Developer Roadmaps](https://roadmap.sh/)
+- [Atlassian Software Development Wiki](https://www.atlassian.com/software-development)
