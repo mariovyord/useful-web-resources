@@ -33,6 +33,7 @@ The ones I use all the time.
 
 - [Tao of Node](https://alexkondov.com/tao-of-node/)
 - [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
+- [API Design ebook](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf)
 
 ## Web Design
 
