@@ -97,6 +97,7 @@ The ones I use all the time.
 - [Markdown Guide](https://www.markdownguide.org/)
 - [VSCode Keyboard Reference Sheet](./markdowns/VSCodeCheatsheet.md)
 - [Profile Pic Maker](https://pfpmaker.com/)
+- [End-of-life](https://endoflife.date/)
 - [Comments Widget - utterances](https://utteranc.es/)
 - [Developer Roadmaps](https://roadmap.sh/)
 - [Atlassian Software Development Wiki](https://www.atlassian.com/software-development)
