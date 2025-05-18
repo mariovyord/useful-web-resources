@@ -21,6 +21,13 @@ The ones I use all the time.
  - [Flexbox Froggy](https://flexboxfroggy.com/)
  - [Coding Fantasy](https://codingfantasy.com/)
 
+## Git
+
+- [Conventional Commits](https://www.conventionalcommits.org)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
+- [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
+
 ## Front-End
 
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
@@ -92,8 +99,6 @@ The ones I use all the time.
 ## Misc
 
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/)
-- [Conventional Commits](https://www.conventionalcommits.org)
-- [Pro Git Book](https://git-scm.com/book/en/v2)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [VSCode Keyboard Reference Sheet](./markdowns/VSCodeCheatsheet.md)
 - [Profile Pic Maker](https://pfpmaker.com/)
