@@ -16,7 +16,7 @@ The ones I use all the time.
  - [Microsoft - Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
  - [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
  - [Learn Jenkins! Complete Jenkins Course - Zero to Hero](https://www.youtube.com/watch?v=6YZvp2GwT0A&ab_channel=DevOpsJourney)
- - [Openshift](https://developers.redhat.com/learn/openshift/foundations-openshift)
+ - [Foundations of OpenShift](https://developers.redhat.com/learn/openshift/foundations-openshift)
  
 ## Coding Games and Challenges
 
