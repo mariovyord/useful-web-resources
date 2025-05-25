@@ -9,12 +9,14 @@ The ones I use all the time.
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/)
 - [Atlassian Software Development Wiki](https://www.atlassian.com/software-development)
 
-## Computer Science
+## Free Education
 
  - [Open Source Society University](https://github.com/ossu/computer-science)
  - [CS50 - Harvard](https://www.youtube.com/c/cs50)
  - [Microsoft - Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
  - [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+ - [Learn Jenkins! Complete Jenkins Course - Zero to Hero](https://www.youtube.com/watch?v=6YZvp2GwT0A&ab_channel=DevOpsJourney)
+ - [Openshift](https://developers.redhat.com/learn/openshift/foundations-openshift)
  
 ## Coding Games and Challenges
 
